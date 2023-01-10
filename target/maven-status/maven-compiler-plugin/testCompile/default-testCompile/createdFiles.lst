@@ -1,0 +1,5 @@
+com\gorest\restassured\cucumber\CucumberRunner.class
+resources\testbase\TestBase.class
+com\gorest\restassured\datadriventests\UserDataDrivenTest.class
+com\gorest\restassured\cucumber\steps\MyStepdefs.class
+com\gorest\restassured\datadriventests\TagsTest.class
